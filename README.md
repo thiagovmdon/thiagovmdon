@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on data analysis, machine learning and integrating remote sensing and python for hydrological applications
-- 🌱 I’m currently learning advanced python features, advanced geopandas, Flopy and TensorFlow
+- 🌱 I’m currently learning advanced python features and how to optimize big data handling.  
 - 💞️ I believe open source is a key to development.
 - 📫 How to reach me: send me a message here or to thiagovmdon@gmail.com
 - 🤔 Here you can follow some of my work results: https://www.researchgate.net/profile/Thiago-Nascimento-10
